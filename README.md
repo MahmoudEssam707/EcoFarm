@@ -72,15 +72,20 @@
 ---
 
 ## 📱 Architecture Diagrams
-![System Architecture](./Arch.png)
+![System Architecture](./Archtecture.svg)
 
 ---
 
-## 👥 Contributors
+## 📱 Poster to Summarize the Entire Project  
+![System Poster](./Poster.svg)
+
+---
+
+## 👥 Contributors  
 
 | Name                 | Role                                                       |
 | -------------------- | ---------------------------------------------------------- |
-| **Mahmoud Essam**    | Leader - Machine Learning Engineer - IoT Dev - Flutter Dev |
+| **Mahmoud Essam**    | Leader - Machine Learning Engineer - IoT Dev - Flutter Dev - Cloud Architect|
 | **Marwan Ali**       | IoT Developer - Cloud Architect                            |
 | **Muhammed Hamdi**   | Flutter Developer                                          |
 | **Abdullah Ibrahim** | Cloud Architect                                            |
