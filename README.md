@@ -77,7 +77,7 @@
 ---
 
 ## 📱 Poster to Summarize the Entire Project  
-![System Poster](./Poster.svg)
+![System Poster](./Poster.png)
 
 ---
 
